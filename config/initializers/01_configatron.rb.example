@@ -1,0 +1,9 @@
+require 'configatron'
+
+# Rdio API
+configatron.rdio.key = ''
+configatron.rdio.secret = ''
+
+# Facebook API
+configatron.fb.key = ''
+configatron.fb.secret = ''

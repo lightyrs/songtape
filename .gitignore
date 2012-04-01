@@ -10,6 +10,9 @@
 # http://github.com/RailsApps/rails3-application-templates/issues
 #----------------------------------------------------------------------------
 
+# private
+/config/initializers/*configatron.rb
+
 # bundler state
 /.bundle
 /vendor/bundle/
